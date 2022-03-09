@@ -1,6 +1,6 @@
 <img src="https://github.com/krishnapankhania/krishnapankhania/blob/a2760d34cb62d885945314734543eeb237886251/banner.png">
 
-<h3 align="center">I am a developer who works on both the front end (client-side) and the back end (server-side) of a website or an application or you can call me.. 🥁 drum roll please.. a 'Full Stack Dev'.</h3>
+<h3 align="center">I am a developer who works on both the front end (client-side) and the back end (server-side) of a website or an application. You can call me.. 🥁 drum roll please.. a 'Full Stack Dev'.</h3>
 
 - 🌱 I’m currently learning & working on **React, Node and AWS**
 
