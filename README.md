@@ -1,4 +1,4 @@
-<img src="https://github.com/krishnapankhania/krishnapankhania/raw/2115ffbe160d646d1b5d088274471908908f3126/github-header-image.png">
+<img src="https://github.com/krishnapankhania/krishnapankhania/blob/a2760d34cb62d885945314734543eeb237886251/banner.png">
 
 <h3 align="center">I am a developer who works on both the front end (client-side) and the back end (server-side) of a website or an application or you can call me.. 🥁 drum roll please.. a 'Full Stack Dev'.</h3>
 
